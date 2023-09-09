@@ -1,0 +1,1 @@
+SELECT * FROM bike_stations
