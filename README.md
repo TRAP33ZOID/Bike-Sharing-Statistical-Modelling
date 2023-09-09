@@ -24,6 +24,15 @@
     Utilized the statsmodels module to build a regression model that examined the relationship between bike availability at a location and the characteristics of nearby points of interest.
 
 
+Interpretation:
+
+    foursquare_pois_count and yelp_pois_count: For each additional POI from either Foursquare or Yelp, we expect an increase of approximately 2.3871 bikes on average, holding all other variables constant. However, the high p-values (0.776) suggest these variables are not statistically significant predictors of free_bikes.
+
+    avg_rating: For each unit increase in the average rating, the number of free bikes decreases by around 4, holding all other variables constant. This is a bit counterintuitive, but the high p-value (0.856) indicates that this variable is not a statistically significant predictor.
+
+    The model's R-squared value is extremely low, indicating that our model doesn't explain much of the variance in the number of free bikes.
+
+
 ## Results
 (Yelp API was better than fourquare. it included alot more details)
  *Foursquare provides multiple geocodes (drop_off, main, roof), which could be useful for different use cases. It also provides an icon URL for the category
