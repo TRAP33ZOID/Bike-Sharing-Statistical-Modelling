@@ -1,0 +1,36 @@
+bike_latitude,bike_longitude,name,review_count,categories,rating,address,phone,distance
+43.665269,-79.319796,Maha's,598,"Egyptian, Vegan, Sandwiches",4.0,"226 Greenwood Avenue, Toronto, ON M4L 2R2, Canada",+1 416-462-2703,1005.190034713692
+43.665269,-79.319796,Lahore Tikka House,544,"Halal, Pakistani",3.5,"1365 Gerrard Street E, Toronto, ON M4L 1Z3, Canada",+1 416-406-1668,787.4737977905058
+43.665269,-79.319796,The Burger's Priest,507,Burgers,3.5,"1636 Queen Street E, Toronto, ON M4L 1G3, Canada",+1 647-346-0617,374.2380726403347
+43.665269,-79.319796,Gio Rana's Really Really Nice Restaurant,230,"Italian, Tapas/Small Plates",4.0,"1220 Queen Street East, Toronto, ON M4M 1L7, Canada",+1 416-469-5225,881.124117228234
+43.665269,-79.319796,Udupi Palace,208,"Indian, Vegetarian, Gluten-Free",3.5,"1460 Gerrard Street E, Toronto, ON M4L 2A3, Canada",+1 416-405-8189,839.3962424759334
+43.67142,-79.445947,Agio,190,Italian,4.5,"1351 St Clair Avenue W, Toronto, ON M6E 1C5, Canada",+1 647-348-4814,646.4712110381079
+43.67142,-79.445947,Khmer Thai Restaurant,139,"Thai, Cambodian",4.0,"1018 St Clair Avenue W, Toronto, ON M6E 1A4, Canada",+1 416-654-0609,1091.4762270896767
+43.67142,-79.445947,Parallel,105,Mediterranean,4.0,"217 Geary Avenue, Toronto, ON M6H 2C1, Canada",+1 416-516-7765,631.8823306471566
+43.67142,-79.445947,Marcello’s pizzeria,102,"Pizza, Italian",4.0,"1163 Saint Clair Avenue W, Toronto, ON M6E 1B2, Canada",+1 416-656-6159,769.5753009498222
+43.67142,-79.445947,Sushi California,101,Sushi Bars,3.5,"1238 Saint Clair Avenue W, Toronto, ON M6E, Canada",+1 416-658-1238,691.472699408898
+43.666224,-79.317693,Maha's,598,"Egyptian, Vegan, Sandwiches",4.0,"226 Greenwood Avenue, Toronto, ON M4L 2R2, Canada",+1 416-462-2703,1066.4121359855728
+43.666224,-79.317693,Lahore Tikka House,544,"Halal, Pakistani",3.5,"1365 Gerrard Street E, Toronto, ON M4L 1Z3, Canada",+1 416-406-1668,802.997541789159
+43.666224,-79.317693,The Burger's Priest,507,Burgers,3.5,"1636 Queen Street E, Toronto, ON M4L 1G3, Canada",+1 647-346-0617,177.64325975172713
+43.666224,-79.317693,Udupi Palace,208,"Indian, Vegetarian, Gluten-Free",3.5,"1460 Gerrard Street E, Toronto, ON M4L 2A3, Canada",+1 416-405-8189,776.9763782879496
+43.666224,-79.317693,Lazy Daisy's Cafe,154,"Cafes, Breakfast & Brunch",4.0,"1515 Gerrard Street E, Toronto, ON M4L 2A5, Canada",+1 647-341-4070,735.3127653824478
+43.653236,-79.376716,Pai Northern Thai Kitchen,3483,Thai,4.5,"18 Duncan Street, Toronto, ON M5H 3G8, Canada",+1 416-901-4724,1133.0794884581526
+43.653236,-79.376716,KINKA IZAKAYA ORIGINAL,1815,"Japanese, Pubs",4.0,"398 Church Street, Toronto, ON M5B 2A2, Canada",+1 416-977-0999,818.3672641461987
+43.653236,-79.376716,Uncle Tetsu's Japanese Cheesecake,1182,"Desserts, Bakeries",3.5,"595 Bay Street, Unit E05, Toronto, ON M5G 2C2, Canada",+1 416-591-0555,617.6596304744421
+43.653236,-79.376716,Salad King Restaurant,1020,Thai,3.5,"340 Yonge Street, Toronto, ON M5B 1R8, Canada",+1 416-593-0333,640.9772159321678
+43.653236,-79.376716,Sansotei Ramen,943,"Ramen, Noodles",4.0,"179 Dundas Street W, Toronto, ON M5G 1Z8, Canada",+1 647-748-3833,808.3311820173079
+43.663722,-79.380288,KINKA IZAKAYA ORIGINAL,1815,"Japanese, Pubs",4.0,"398 Church Street, Toronto, ON M5B 2A2, Canada",+1 416-977-0999,383.3225709992662
+43.663722,-79.380288,Uncle Tetsu's Japanese Cheesecake,1182,"Desserts, Bakeries",3.5,"595 Bay Street, Unit E05, Toronto, ON M5G 2C2, Canada",+1 416-591-0555,866.8397388902905
+43.663722,-79.380288,Salad King Restaurant,1020,Thai,3.5,"340 Yonge Street, Toronto, ON M5B 1R8, Canada",+1 416-593-0333,690.2162633299187
+43.663722,-79.380288,Sansotei Ramen,943,"Ramen, Noodles",4.0,"179 Dundas Street W, Toronto, ON M5G 1Z8, Canada",+1 647-748-3833,1089.2349318379986
+43.663722,-79.380288,Hokkaido Ramen Santouka,897,"Ramen, Noodles",4.0,"91 Dundas Street E, Toronto, ON M5B 2C8, Canada",+1 647-748-1717,852.8967085987813
+43.657763,-79.389165,KINKA IZAKAYA ORIGINAL,1815,"Japanese, Pubs",4.0,"398 Church Street, Toronto, ON M5B 2A2, Canada",+1 416-977-0999,877.1467901560992
+43.657763,-79.389165,Seven Lives Tacos y Mariscos,1483,Mexican,4.5,"72 Kensington Avenue, Toronto, ON M5T 2K1, Canada",+1 416-393-4636,1006.6303824096711
+43.657763,-79.389165,Banh Mi Boys,1244,"Vietnamese, Sandwiches",4.5,"392 Queen Street W, Toronto, ON M5V 2A9, Canada",+1 416-363-0588,1179.1313625401824
+43.657763,-79.389165,Uncle Tetsu's Japanese Cheesecake,1182,"Desserts, Bakeries",3.5,"595 Bay Street, Unit E05, Toronto, ON M5G 2C2, Canada",+1 416-591-0555,510.1244443974783
+43.657763,-79.389165,Salad King Restaurant,1020,Thai,3.5,"340 Yonge Street, Toronto, ON M5B 1R8, Canada",+1 416-593-0333,585.9162397111279
+43.656729,-79.382736,Pai Northern Thai Kitchen,3483,Thai,4.5,"18 Duncan Street, Toronto, ON M5H 3G8, Canada",+1 416-901-4724,1095.5910142176267
+43.656729,-79.382736,KINKA IZAKAYA ORIGINAL,1815,"Japanese, Pubs",4.0,"398 Church Street, Toronto, ON M5B 2A2, Canada",+1 416-977-0999,513.829541801903
+43.656729,-79.382736,Uncle Tetsu's Japanese Cheesecake,1182,"Desserts, Bakeries",3.5,"595 Bay Street, Unit E05, Toronto, ON M5G 2C2, Canada",+1 416-591-0555,68.02728566944717
+43.656729,-79.382736,Salad King Restaurant,1020,Thai,3.5,"340 Yonge Street, Toronto, ON M5B 1R8, Canada",+1 416-593-0333,120.74270111274144
+43.656729,-79.382736,Sansotei Ramen,943,"Ramen, Noodles",4.0,"179 Dundas Street W, Toronto, ON M5G 1Z8, Canada",+1 647-748-3833,355.8693090839165
