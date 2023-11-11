@@ -1,4 +1,4 @@
-# Final-Project-Statistical-Modelling-with-Python
+# Bike-Sharing-Statistical-Modelling 
 
 ## Project/Goals
 (The aim of this project is to explore and analyze the relationship between bike availability in specific locations and the presence and characteristics of Points of Interest (POIs) in those areas, using the CityBikes, Yelp, and Foursquare APIs.)
